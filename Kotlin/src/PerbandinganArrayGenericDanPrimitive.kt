@@ -1,0 +1,48 @@
+fun prosesArrayGeneric() {
+    val jumlahData = 1_000_000
+
+    val datasensor = Array(jumlahData) {
+        it + 1
+    }
+
+    val waktuMulai = System.nanoTime()
+
+    var total : Long = 0
+    for(data in datasensor) {
+        total += data
+    }
+
+    val ratata = total.toDouble()
+    val waktuSelesai = System.nanoTime()
+    val durasiMs = (waktuSelesai - waktuMulai) / 1_000_000.0
+
+    println("Jumlah data : $jumlahData")
+    println("Durasi : $durasiMs")
+}
+
+fun prosesArrayPrimitive() {
+    val jumlahData = 1_000_000
+
+    val datasensor = IntArray(jumlahData) {
+        it + 1
+    }
+
+    val waktuMulai = System.nanoTime()
+
+    var total : Long = 0
+    for(data in datasensor) {
+        total += data
+    }
+
+    val ratata = total.toDouble()
+    val waktuSelesai = System.nanoTime()
+    val durasiMs = (waktuSelesai - waktuMulai) / 1_000_000.0
+
+    println("Jumlah data : $jumlahData")
+    println("Durasi : $durasiMs")
+}
+
+fun main() {
+    prosesArrayGeneric()
+    prosesArrayPrimitive()
+}
