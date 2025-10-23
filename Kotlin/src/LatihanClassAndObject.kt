@@ -9,5 +9,5 @@ fun main() {
         GameItem(1, "Pedang Besi", 100, "Common"),
     )
 
-    GameItemList[1] = GameItem(1, "Pedang Besi", 100)
+    GameItemList[1] = GameItem(1, "Pedang Besi", 100, "Common")
 }
