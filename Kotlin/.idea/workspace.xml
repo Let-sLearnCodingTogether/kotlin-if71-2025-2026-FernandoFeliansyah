@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e0fe85d-2a91-41dd-895b-be47984eb5a0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/LatihanUTS.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LatihanUTS2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,60 +35,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Kotlin.ArrayKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.ElvisOperatorKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.EncapsulationVariableKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.ExtenctionFunctionKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.ForLoopWithArrayKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.FunctionKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.FunctionNamedArgumentKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.FunctionVarargsVariableKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.FunctionWithDefaultParameterKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.FunctionWithParameterKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Function_ReturningTypeKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.IfExpressionKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.IfWhenExpressionKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.InfixFunctionKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Latihan8Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.LatihanClassAndObject_2Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.Latihan_6Kt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.NullabilityKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.OperasiRangeKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.ParameterAndArgumentKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.ShortCircuitKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.SingleExpressionFunctionKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.SmartCastsKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.UnitReturningFunctionKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.VarargsParameterKt.executor&quot;: &quot;Run&quot;,
-    &quot;Kotlin.WhenExpressionKt.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/kotlin-if71-2025-2026-FernandoFeliansyah/Kotlin&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.ArrayKt.executor": "Run",
+    "Kotlin.CollectionMapKt.executor": "Run",
+    "Kotlin.ElvisOperatorKt.executor": "Run",
+    "Kotlin.EncapsulationVariableKt.executor": "Run",
+    "Kotlin.ExtenctionFunctionKt.executor": "Run",
+    "Kotlin.ForLoopWithArrayKt.executor": "Run",
+    "Kotlin.FunctionKt.executor": "Run",
+    "Kotlin.FunctionNamedArgumentKt.executor": "Run",
+    "Kotlin.FunctionVarargsVariableKt.executor": "Run",
+    "Kotlin.FunctionWithDefaultParameterKt.executor": "Run",
+    "Kotlin.FunctionWithParameterKt.executor": "Run",
+    "Kotlin.Function_ReturningTypeKt.executor": "Run",
+    "Kotlin.IfExpressionKt.executor": "Run",
+    "Kotlin.IfWhenExpressionKt.executor": "Run",
+    "Kotlin.InfixFunctionKt.executor": "Run",
+    "Kotlin.Latihan8Kt.executor": "Run",
+    "Kotlin.LatihanClassAndObject_2Kt.executor": "Run",
+    "Kotlin.LatihanUTS2Kt.executor": "Run",
+    "Kotlin.LatihanUTSKt.executor": "Run",
+    "Kotlin.Latihan_6Kt.executor": "Run",
+    "Kotlin.NullabilityKt.executor": "Run",
+    "Kotlin.OperasiRangeKt.executor": "Run",
+    "Kotlin.ParameterAndArgumentKt.executor": "Run",
+    "Kotlin.ShortCircuitKt.executor": "Run",
+    "Kotlin.SingleExpressionFunctionKt.executor": "Run",
+    "Kotlin.SmartCastsKt.executor": "Run",
+    "Kotlin.UnitReturningFunctionKt.executor": "Run",
+    "Kotlin.VarargsParameterKt.executor": "Run",
+    "Kotlin.WhenExpressionKt.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/kotlin-if71-2025-2026-FernandoFeliansyah/Kotlin",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.completion"
   }
-}</component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="Kotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="Kotlin" />
-      <option name="filePath" />
-      <method v="2" />
-    </configuration>
-  </component>
+}]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="3e0fe85d-2a91-41dd-895b-be47984eb5a0" name="Changes" comment="" />
