@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e0fe85d-2a91-41dd-895b-be47984eb5a0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/CompanionObject.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LatihanClassAndObject#2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ObjectExpression.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SingletonObject.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LatihanClassAndObject.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/LatihanClassAndObject.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="32uwqXQM1QIZ0TT3r0mavb8BL1H" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.ArrayKt.executor": "Run",
+    "Kotlin.ElvisOperatorKt.executor": "Run",
+    "Kotlin.EncapsulationVariableKt.executor": "Run",
+    "Kotlin.ExtenctionFunctionKt.executor": "Run",
+    "Kotlin.ForLoopWithArrayKt.executor": "Run",
+    "Kotlin.FunctionKt.executor": "Run",
+    "Kotlin.FunctionNamedArgumentKt.executor": "Run",
+    "Kotlin.FunctionVarargsVariableKt.executor": "Run",
+    "Kotlin.FunctionWithDefaultParameterKt.executor": "Run",
+    "Kotlin.FunctionWithParameterKt.executor": "Run",
+    "Kotlin.Function_ReturningTypeKt.executor": "Run",
+    "Kotlin.IfExpressionKt.executor": "Run",
+    "Kotlin.IfWhenExpressionKt.executor": "Run",
+    "Kotlin.InfixFunctionKt.executor": "Run",
+    "Kotlin.Latihan8Kt.executor": "Run",
+    "Kotlin.LatihanClassAndObject_2Kt.executor": "Run",
+    "Kotlin.Latihan_6Kt.executor": "Run",
+    "Kotlin.NullabilityKt.executor": "Run",
+    "Kotlin.OperasiRangeKt.executor": "Run",
+    "Kotlin.ParameterAndArgumentKt.executor": "Run",
+    "Kotlin.ShortCircuitKt.executor": "Run",
+    "Kotlin.SingleExpressionFunctionKt.executor": "Run",
+    "Kotlin.SmartCastsKt.executor": "Run",
+    "Kotlin.UnitReturningFunctionKt.executor": "Run",
+    "Kotlin.VarargsParameterKt.executor": "Run",
+    "Kotlin.WhenExpressionKt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/kotlin-if71-2025-2026-FernandoFeliansyah/Kotlin",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e0fe85d-2a91-41dd-895b-be47984eb5a0" name="Changes" comment="" />
+      <created>1758283956411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758283956411</updated>
+    </task>
+    <servers />
+  </component>
+</project>
