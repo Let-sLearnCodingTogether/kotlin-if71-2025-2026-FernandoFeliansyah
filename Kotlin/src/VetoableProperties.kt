@@ -23,4 +23,10 @@ fun main() {
 
     nilaiMhs.nilai = 80f
     println(nilaiMhs.nilai)
+
+    nilaiMhs.nilai = 100f
+    println(nilaiMhs.nilai)
+
+    nilaiMhs.nilai = 10f
+    println(nilaiMhs.nilai)
 }

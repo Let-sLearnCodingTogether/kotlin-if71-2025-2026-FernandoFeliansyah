@@ -1,6 +1,6 @@
 fun main() {
     fun main() {
-        //Immutable
+        //Mutable
         val buah : MutableMap<String, Int> = mutableMapOf(
             "Jeruk" to 10,
             "Apel" to 3,

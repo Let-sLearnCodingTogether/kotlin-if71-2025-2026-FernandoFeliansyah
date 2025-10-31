@@ -12,7 +12,7 @@ fun main() {
 
     for((k,v) in stokBarang) {
         if(stokTerdikit == v) {
-            println(k)
+            println(k,)
         }
     }
 

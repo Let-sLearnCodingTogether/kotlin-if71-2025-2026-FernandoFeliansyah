@@ -1,4 +1,4 @@
-fun fungsi() {
+fun fungsi(){
     val jumlahData : IntArray = intArrayOf(80, 90, 99, 40)
 
     println("Total : ${jumlahData.sum()}")
