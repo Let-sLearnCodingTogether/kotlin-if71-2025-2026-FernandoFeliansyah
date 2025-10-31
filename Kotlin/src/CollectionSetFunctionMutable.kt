@@ -10,9 +10,9 @@ fun main() {
 
     animals.addAll(listOf("Sapi", "Kerbau", "Kucing", "Ayam", "Ayam"))
     println(animals)
-    animals.removeAll(animals)
-    println(animals)
     animals.retainAll(listOf("Sapi", "Kerbau", "Kucing"))
+    println(animals)
+    animals.removeAll(animals)
     println(animals)
     animals.clear()
     println(animals)

@@ -11,5 +11,7 @@ fun main() {
         "Jeruk" to 10,
         "Apel" to 3,
     )
-    println(buah2["Jeruk"])
+    println(buah2["Jeru"])
+    println(buah2.remove("Jeruk"))
+    println(buah2)
 }

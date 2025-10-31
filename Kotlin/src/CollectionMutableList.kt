@@ -15,14 +15,14 @@ fun main() {
     val mataKuliah2 = mataKuliahPilihan  + mataKuliah
     println(mataKuliah2)
 
-//    val mataKuliahUppercase = mataKuliah.map {
-//        it.uppercase()
-//    }
-//    println("List matakuliah uppercase : $mataKuliahUppercase")
-//
-//    val mataKuliahLebihDariNKarakter = mataKuliah.filter {
-//        it.length > 10
-//    }
-//
-//    println("Matakuliah lebih dari 10 karakter : $mataKuliahLebihDariNKarakter")
+    val mataKuliahUppercase = mataKuliah.map {
+        it.uppercase()
+    }
+    println("List matakuliah uppercase : $mataKuliahUppercase")
+
+    val mataKuliahLebihDariNKarakter = mataKuliah.filter {
+        it.length > 10
+    }
+
+    println("Matakuliah lebih dari 10 karakter : $mataKuliahLebihDariNKarakter")
 }

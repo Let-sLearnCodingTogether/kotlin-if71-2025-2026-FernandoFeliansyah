@@ -9,5 +9,7 @@ class Kalkulator {
 }
 
 fun main() {
+    val kal = Kalkulator.Companion
+    println(kal.tambah(5,2))
     println(Kalkulator.tambah(5, 2))
 }
