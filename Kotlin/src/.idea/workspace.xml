@@ -5,9 +5,123 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="024f21ad-29eb-4614-858b-380d208008f9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NestedClass.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kotlin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kotlin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/.idea/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/AggregationOperationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/AnyKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/ArrayIterationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/ArrayKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/AugmentedAssignmentKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/CollectionFunctionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/CollectionListImmutableKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/CollectionMapFunctionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/CollectionMapKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/CollectionMapMutableFunctionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/CollectionMutableListKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/CollectionNullabilityKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/CollectionSetFunctionMutableKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/CollectionSetKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/ElvisOperatorKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/EncapsulationVariableKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/ExtenctionFunctionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/FloatingKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/ForLoopWithArrayKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/FunctionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/FunctionNamedArgumentKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/FunctionVarargsVariableKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/FunctionWithDefaultParameterKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/FunctionWithParameterKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/Function_ReturningTypeKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/HelloWorldKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/IfExpressionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/IfWhenExpressionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/Latihan2Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/Latihan5Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/Latihan6_SponKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/Latihan8Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/Latihan9Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/LatihanUTSKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/Latihan_6Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/META-INF/Kotlin.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/MathOperatorKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/NothingKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/NullabilityKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/NumberKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/OperasiBooleanKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/OperasiRangeKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/OperatorPerbandinganKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/PairsDestructuringKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/PairsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/ParameterAndArgumentKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/PerbandinganArrayGenericDanPrimitiveKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/PrimitiveTypeArrayKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/SearchAndCheckKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/ShortCircuitKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/SingleExpressionFunctionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/SmartCastsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/SortAndOtherOperationKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/TriplesDestructuringKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/TriplesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/UnaryOperatorKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/UnitKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/UnitReturningFunctionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/VarargsParameterKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/VariableKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/WhenExpressionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/ClassAndObjectConstructorDefaultValueKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/ClassAndObjectKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/ClassFunctionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/ClassFunctionOverloadingKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/CompanionObjectKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/CustomGetterSetterKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/DatabaseConnection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/DestructuringDeclarationsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/ExtensionMethodKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/ExtensionPropertiesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/Game$special$$inlined$observable$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/GameItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/Kalkulator$Companion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/Kalkulator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/Karyawan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/Kendaraan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/LatihanClassAndObjectKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/LatihanClassAndObject_2Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/LatihanUTS2Kt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/LazyPropertiesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/Mahasiswa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/MahasiswaConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/MahasiswaConstructorDefaultValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/MahasiswaCustomSetterKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/MahasiswaFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/MahasiswaFunctionOverloading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/MahasiswaThisKeyword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/MahasiswaThisKeywordKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/NilaiMahasiswa$special$$inlined$vetoable$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/NilaiMahasiswa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/NilaiUjian.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/ObjectExpressionKt$main$person$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/ObjectExpressionKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/Observable_PropertiesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/PersegiPanjang.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/PersegiPanjangKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/SingletonObjectKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/TranskripNilai.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/UserDataClassKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/UserDataClassWithOtherPropertyKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/UserProfile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/UserProfile1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../production/Kotlin/oop/VetoablePropertiesKt.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CompanionObject.kt" beforeDir="false" afterPath="$PROJECT_DIR$/CompanionObject.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,22 +139,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/xampp/htdocs/kotlin-if71-2025-2026-FernandoFeliansyah/Kotlin/src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/kotlin-if71-2025-2026-FernandoFeliansyah/Kotlin/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <option name="ALTERNATIVE_JRE_PATH" value="25" />
@@ -52,14 +166,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
