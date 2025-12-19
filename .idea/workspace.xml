@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b8771f9d-4b66-4928-bb37-bcf9aad7b594" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Kotlin/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,19 +34,6 @@
     &quot;last_opened_file_path&quot;: &quot;D:/kotlin-if71-2025-2026-FernandoFeliansyah&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="kotlin-if71-2025-2026-FernandoFeliansyah" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="kotlin-if71-2025-2026-FernandoFeliansyah" />
-      <option name="filePath" />
-      <method v="2" />
-    </configuration>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b8771f9d-4b66-4928-bb37-bcf9aad7b594" name="Changes" comment="" />

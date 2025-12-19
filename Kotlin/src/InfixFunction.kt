@@ -6,7 +6,7 @@
 //    return this.lowercase()
 //}
 //
-//fun main() {
+//fun LatihanUAS.LatihanUAS.main() {
 //    println("hello world" to "upper")
 //    println("HELLO WORLD" to "a")
 //}
