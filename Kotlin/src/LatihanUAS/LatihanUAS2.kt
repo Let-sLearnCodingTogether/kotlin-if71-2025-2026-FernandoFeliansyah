@@ -1,10 +1,10 @@
-package LatihanUAS
+    package LatihanUAS
 
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.runBlocking
 
-fun main() : Unit = runBlocking {
+fun main(): Unit = runBlocking {
     launch{
         layaniPelanggan("Budi")
     }
@@ -14,12 +14,15 @@ fun main() : Unit = runBlocking {
     launch{
         layaniPelanggan("Anto")
     }
+//    layaniPelanggan("Budi")
+//    layaniPelanggan("Susi")
+//    layaniPelanggan("Anto")
 }
 
 fun layaniPelanggan(nama: String) {
     runBlocking {
         println("$nama sedang memesan...")
-        delay(5000L)
+        delay(5000)
         println("$nama selesai dilayani...")
     }
 }

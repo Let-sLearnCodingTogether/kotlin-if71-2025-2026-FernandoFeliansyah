@@ -7,6 +7,9 @@ fun main() = runBlocking {
     launch {
         downloading()
     }
+    launch {
+        downloading()
+    }
     println("Sedang download")
 }
 

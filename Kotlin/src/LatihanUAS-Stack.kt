@@ -8,7 +8,7 @@ class StackImplement<T: Any>: Stack<T> {
     private val storage = arrayListOf<T>()
 
     override fun toString(): String {
-        return storage.asReversed().toString()
+        return storage.toString()
     }
 
     override fun push(element: T) {
@@ -30,7 +30,7 @@ fun main() {
 
     stack.push(10)
     stack.push(20)
-    stack.pop()
+//    stack.pop()
     stack.peek()
     println(stack)
 }
